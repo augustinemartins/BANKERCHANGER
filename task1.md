@@ -1,6 +1,7 @@
+
 #741 [BACKEND] Implement Indexer::handleMarketResolved()
 Repo Avatar
-Netwalls/BOXMEOUT_STELLA
+Netwalls/BANKERCHANGER
 Implement handler for MarketResolved events.
 
 Acceptance Criteria
@@ -11,7 +12,7 @@ Acceptance Criteria
 
  #744 [BACKEND] Implement MarketController::getMarket()
 Repo Avatar
-Netwalls/BOXMEOUT_STELLA
+Netwalls/BANKERCHANGER
 Implement GET /api/markets/:marketId.
 
 Acceptance Criteria
@@ -22,7 +23,7 @@ Acceptance Criteria
 
  #746 [BACKEND] Implement BetController::getBetsByAddress()
 Repo Avatar
-Netwalls/BOXMEOUT_STELLA
+Netwalls/BANKERCHANGER
 Implement GET /api/bets/:address.
 
 Acceptance Criteria
@@ -33,7 +34,7 @@ Acceptance Criteria
 
  #747 [BACKEND] Implement BetController::getBettorStats()
 Repo Avatar
-Netwalls/BOXMEOUT_STELLA
+Netwalls/BANKERCHANGER
 Implement GET /api/bets/:address/stats.
 
 Acceptance Criteria
